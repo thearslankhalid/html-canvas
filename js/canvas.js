@@ -16,8 +16,7 @@ var colorArray = [
   'cyan',
   'magenta',
   'dimgrey',
-  'salmon',
-	'orange'
+  'salmon'
 ];
 
 window.addEventListener('mousemove', function(event){
