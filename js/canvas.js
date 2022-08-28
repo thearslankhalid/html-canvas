@@ -5,8 +5,6 @@
 
  var c = canvas.getContext('2d');
 
-
-
 var mouse = {
 	x : undefined,
 	y : undefined
@@ -18,8 +16,8 @@ var colorArray = [
   'cyan',
   'magenta',
   'dimgrey',
-  'salmon'
-
+  'salmon',
+	'orange'
 ];
 
 window.addEventListener('mousemove', function(event){
